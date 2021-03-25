@@ -1,4 +1,3 @@
-# React-Practice
 **React Context Practice**
 In this exercise you have to:
 
