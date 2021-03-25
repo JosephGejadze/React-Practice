@@ -2,7 +2,7 @@
 **React Context Practice**
 In this exercise you have to:
 
-<> Create a React Context providing information about an arbitrary item
+<> Create a React Context providing information about an arbitrary item \n
 <> Wrap the parent component with the context provider
 <> Obtain item information in components through Context
 <> Edit item information in components through Context
